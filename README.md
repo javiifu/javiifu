@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding with members
 - 📫 How to reach me: send me a message
 - 😄 Pronouns: he
-- ⚡ Fun fact: 
+- 🎩 Green hat
 
 <!---
 javiifu/javiifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
