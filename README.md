@@ -31,7 +31,6 @@ I'm currently looking for a **company to host my internship** during my second a
 
 ## 📫 Let's Connect
 
-- 📧 Email: javiifu@example.com *(replace with your real one)*
 - 💼 LinkedIn: [linkedin.com/in/javiifu](https://www.linkedin.com/in/javier-beltran-45b45a184) 
 - 🌍 GitHub: [github.com/javiifu](https://github.com/javiifu)
 
