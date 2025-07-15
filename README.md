@@ -12,8 +12,8 @@
 - 🐧 Linux: Kali, Fedora (Nobara), package management, advanced terminal use
 - 🕵️‍♂️ Cybersecurity: OSINT, social engineering, ethical hacking basics
 - 🔧 Automation: n8n, Make.com, scripting with bash and Python
-- 🌐 Web Development: Symfony, API Platform (REST & GraphQL), HTML5, CSS3
-- 💾 Databases: MySQL, MariaDB, SQLite
+- 🌐 Web Development: Symfony, HTML5, CSS3
+- 💾 Databases: MySQL, MariaDB
 
 ---
 
@@ -32,7 +32,7 @@ I'm currently looking for a **company to host my internship** during my second a
 ## 📫 Let's Connect
 
 - 📧 Email: javiifu@example.com *(replace with your real one)*
-- 💼 LinkedIn: [linkedin.com/in/javiifu](https://www.linkedin.com/in/javiifu) *(create if you haven’t yet)*
+- 💼 LinkedIn: [linkedin.com/in/javiifu](https://www.linkedin.com/in/javier-beltran-45b45a184) 
 - 🌍 GitHub: [github.com/javiifu](https://github.com/javiifu)
 
 ---
